@@ -1,0 +1,10 @@
+.wrap {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+}
+
+.wrapMap {
+    width: 350px;
+    height: 350px;
+}
